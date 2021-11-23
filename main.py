@@ -16,7 +16,7 @@ USER = {}
 token_user = {}
 @app.route('/')
 def index():
-    return "hello world"
+    return ""hello world-edit by liuyan -20211123
 
 
 @app.route('/user/registry', methods=['POST'])
